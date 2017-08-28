@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Montserrat');
+
+.bblue{
+  background-color: #1D3461;
+}
+.tblue{
+  color: #1D3461;
+}
+.twhite{
+  color: white;
+}
+.arvo{
+  font-family: "Arvo", serif;
+}
+p, body{
+  font-family: "Montserrat", sans-serif;
+}
+.thick {
+    border: none;
+    height: 7px;
+    /* Set the hr color */
+    color: white; /* old IE */
+    background-color: white; /* Modern Browsers */
+}
+.thin {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: white; /* old IE */
+    background-color: white; /* Modern Browsers */
+}
+.sponsor {
+	max-height: 50px;
+}

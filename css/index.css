@@ -1,0 +1,122 @@
+body{
+  background-color: #1D3461;
+}
+h1, h2, h3, h4, h5, h6, p{
+  color: white;
+}
+h1, h2, h3, h4, h5, h6, a, button{
+  font-family: "Arvo", serif;
+}
+p{
+  font-family: "Montserrat";
+}
+.inverse{
+  color: black;
+}
+.inverse-hr{
+  border: none;
+  height: 2px;
+  /* Set the hr color */
+  color: black; /* old IE */
+  background-color: black; /* Modern Browsers */
+}
+.hr-thick{
+  border: none;
+  height: 6px;
+  /* Set the hr color */
+  color: black; /* old IE */
+  background-color: black; /* Modern Browsers */
+}
+.btn{
+  border-radius: 3px;
+}
+.btn-black{
+  background-color: black;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+.btn-white{
+  background-color: white;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+}
+.sponsor{
+	height: 100px;
+} 
+.header {
+  margin-top: 35vh;
+  font-size: 100px;
+}
+.header-sub{
+  font-size: 30px;
+}
+.thick {
+    border: none;
+    height: 7px;
+    /* Set the hr color */
+    color: white; /* old IE */
+    background-color: white; /* Modern Browsers */
+}
+.thin {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: white; /* old IE */
+    background-color: white; /* Modern Browsers */
+}
+.negative{
+  height: 10px;
+}
+.mini{
+  min-height: 20vh;
+  padding-bottom: 2vh;
+}
+.bigger{
+  font-size: 18px;
+}
+.page1{
+  background-color: #1D3461;
+  height: 100vh;
+  width: 100%;
+}
+@media screen
+  and (device-width: 601px)
+  and (device-height: 906px)
+  and (-webkit-min-device-pixel-ratio: 1.331)
+  and (-webkit-max-device-pixel-ratio: 1.332)
+  and (orientation: landscape) {
+    .focus{
+      background-color: #1F4EAD; border-radius: 3px; padding-bottom: 3vh;
+    }
+}
+
+.down-arrow{
+  margin-top: 10vh;
+}
+.interjection{
+  background-color: #3055A0;
+  padding-bottom: 6vh;
+  padding-top: 5vh;
+  width: 100%;
+}
+.page-insert{
+  background-color: #3055A0;
+  padding-bottom: 6vh;
+  padding-top: 6vh;
+  width: 100%;
+}
+.page2{
+  background-color: #2A4C8E;
+  min-height: 65vh;
+  padding-bottom: 5vh;
+  width: 100%;
+}
+.page3{
+  background-color: #255ED1;
+  min-height: 90vh;
+  padding-bottom: 5vh;
+  width: 100%;
+}
+.white{
+  background-color: #FFFFFF;
+}
