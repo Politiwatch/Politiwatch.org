@@ -1,0 +1,395 @@
+/* Better colors */
+.bg-navy {
+    background-color: #001F3F !important; 
+}
+
+.bg-blue {
+    background-color: #0074D9 !important; 
+}
+
+.bg-aqua {
+    background-color: #7FDBFF !important; 
+}
+
+.bg-teal {
+    background-color: #39CCCC !important; 
+}
+
+.bg-olive {
+    background-color: #3D9970 !important; 
+}
+
+.bg-green {
+    background-color: #2ECC40 !important; 
+}
+
+.bg-lime {
+    background-color: #01FF70 !important; 
+}
+
+.bg-yellow {
+    background-color: #FFDC00 !important; 
+}
+
+.bg-orange {
+    background-color: #FF851B !important; 
+}
+
+.bg-red {
+    background-color: #FF4136 !important; 
+}
+
+.bg-fuchsia {
+    background-color: #F012BE !important; 
+}
+
+.bg-purple {
+    background-color: #B10DC9 !important; 
+}
+
+.bg-maroon {
+    background-color: #85144B !important; 
+}
+
+.bg-white {
+    background-color: #fff !important; 
+}
+
+.bg-gray {
+    background-color: #aaa !important; 
+}
+
+.bg-silver {
+    background-color: #ddd !important; 
+}
+
+.bg-black {
+    background-color: #111 !important; 
+}
+
+.navy {
+    color: #001F3F !important; 
+}
+
+.blue {
+    color: #0074D9 !important; 
+}
+
+.aqua {
+    color: #7FDBFF !important; 
+}
+
+.teal {
+    color: #39CCCC !important; 
+}
+
+.olive {
+    color: #3D9970 !important; 
+}
+
+.green {
+    color: #2ECC40 !important; 
+}
+
+.lime {
+    color: #01FF70 !important; 
+}
+
+.yellow {
+    color: #FFDC00 !important; 
+}
+
+.orange {
+    color: #FF851B !important; 
+}
+
+.red {
+    color: #FF4136 !important; 
+}
+
+.fuchsia {
+    color: #F012BE !important; 
+}
+
+.purple {
+    color: #B10DC9 !important; 
+}
+
+.maroon {
+    color: #85144B !important; 
+}
+
+.white {
+    color: #fff !important; 
+}
+
+.silver {
+    color: #ddd !important; 
+}
+
+.gray {
+    color: #aaa !important; 
+}
+
+.black {
+    color: #111 !important; 
+}
+
+.border--navy {
+    border-color: #001F3F !important; 
+}
+
+.border--blue {
+    border-color: #0074D9 !important; 
+}
+
+.border--aqua {
+    border-color: #7FDBFF !important; 
+}
+
+.border--teal {
+    border-color: #39CCCC !important; 
+}
+
+.border--olive {
+    border-color: #3D9970 !important; 
+}
+
+.border--green {
+    border-color: #2ECC40 !important; 
+}
+
+.border--lime {
+    border-color: #01FF70 !important; 
+}
+
+.border--yellow {
+    border-color: #FFDC00 !important; 
+}
+
+.border--orange {
+    border-color: #FF851B !important; 
+}
+
+.border--red {
+    border-color: #FF4136 !important; 
+}
+
+.border--fuchsia {
+    border-color: #F012BE !important; 
+}
+
+.border--purple {
+    border-color: #B10DC9 !important; 
+}
+
+.border--maroon {
+    border-color: #85144B !important; 
+}
+
+.border--white {
+    border-color: #fff !important; 
+}
+
+.border--gray {
+    border-color: #aaa !important; 
+}
+
+.border--silver {
+    border-color: #ddd !important; 
+}
+
+.border--black {
+    border-color: #111 !important; 
+}
+
+.fill-navy {
+    fill: #001F3F !important; 
+}
+
+.fill-blue {
+    fill: #0074D9 !important; 
+}
+
+.fill-aqua {
+    fill: #7FDBFF !important; 
+}
+
+.fill-teal {
+    fill: #39CCCC !important; 
+}
+
+.fill-olive {
+    fill: #3D9970 !important; 
+}
+
+.fill-green {
+    fill: #2ECC40 !important; 
+}
+
+.fill-lime {
+    fill: #01FF70 !important; 
+}
+
+.fill-yellow {
+    fill: #FFDC00 !important; 
+}
+
+.fill-orange {
+    fill: #FF851B !important; 
+}
+
+.fill-red {
+    fill: #FF4136 !important; 
+}
+
+.fill-fuchsia {
+    fill: #F012BE !important; 
+}
+
+.fill-purple {
+    fill: #B10DC9 !important; 
+}
+
+.fill-maroon {
+    fill: #85144B !important; 
+}
+
+.fill-white {
+    fill: #fff !important; 
+}
+
+.fill-gray {
+    fill: #aaa !important; 
+}
+
+.fill-silver {
+    fill: #ddd !important; 
+}
+
+.fill-black {
+    fill: #111 !important; 
+}
+
+.stroke-navy {
+    stroke: #001F3F !important; 
+}
+
+.stroke-blue {
+    stroke: #0074D9 !important; 
+}
+
+.stroke-aqua {
+    stroke: #7FDBFF !important; 
+}
+
+.stroke-teal {
+    stroke: #39CCCC !important; 
+}
+
+.stroke-olive {
+    stroke: #3D9970 !important; 
+}
+
+.stroke-green {
+    stroke: #2ECC40 !important; 
+}
+
+.stroke-lime {
+    stroke: #01FF70 !important; 
+}
+
+.stroke-yellow {
+    stroke: #FFDC00 !important; 
+}
+
+.stroke-orange {
+    stroke: #FF851B !important; 
+}
+
+.stroke-red {
+    stroke: #FF4136 !important; 
+}
+
+.stroke-fuchsia {
+    stroke: #F012BE !important; 
+}
+
+.stroke-purple {
+    stroke: #B10DC9 !important; 
+}
+
+.stroke-maroon {
+    stroke: #85144B !important; 
+}
+
+.stroke-white {
+    stroke: #fff !important; 
+}
+
+.stroke-gray {
+    stroke: #aaa !important; 
+}
+
+.stroke-silver {
+    stroke: #ddd !important; 
+}
+
+.stroke-black {
+    stroke: #111 !important; 
+}
+
+/* Custom themes */
+.container {
+    max-width: 45em !important;
+    margin: auto;
+}
+
+.content-block {
+    padding-bottom: 4em;
+}
+
+.content-block h1 {
+    font-weight: 700;
+    margin-bottom: 40px;
+    line-height: 1;
+    font-size: 28px;
+}
+
+.content-block p {
+    font-size: 20px;
+    padding-bottom: 1.5em;
+}
+
+.heading {
+    padding-bottom: 0px !important;
+}
+
+.big-block {
+    padding: 50px;
+    margin-top: 2em;
+}
+
+.big-block h1 {
+    font-size: 28px !important;
+    font-weight: 300 !important;
+    line-height: 1.2 !important;
+}
+
+.pusher {
+    height: 10em;
+}
+
+.column {
+    margin: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+a {
+    color: inherit !important;
+    text-decoration: underline;
+}
+
+.is-very-small {
+    font-size: 14px !important;
+}
